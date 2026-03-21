@@ -16,6 +16,7 @@ Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/r
 - Download and install the `TenSeiModsModule`
 - Open the app and grant **Root Access** (Magisk or KernelSU).
 - Select your desired modifications from the menu.
+- - Dsv must be installed or patched`
 - Click **"Apply Changes"** to restart SystemUI and finalize settings.
 
 ---
