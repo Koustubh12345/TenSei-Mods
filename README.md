@@ -1,5 +1,5 @@
 # 🌌 TenSei Mods V1.0
-<img width="2171" height="1220" alt="TenSeiMods_Banner" src="https://i.postimg.cc/rsntDtXg/23418-x16-drawing.png" />
+<img width="2171" height="1220" alt="TenSeiMods_Banner" src="https://i.postimg.cc/zB82q4kz/IMG-20260321-184252-220.jpg" />
 
 **TenSei Mods** is an advanced, root-only customization suite specifically engineered for **Oplus, ColorOS, OxygenOS, and RealmeUI** devices and ports. It combines high-performance Smali logic with a premium "Atmospheric" glass-morphism UI.
 
