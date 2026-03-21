@@ -1,5 +1,5 @@
 # 🌌 TenSei Mods V1.0
-<img width="2171" height="1220" alt="TenSeiMods_Banner" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_106.jpg" />
+<img width="2171" height="1220" alt="TenSeiMods_Banner" src="https://i.postimg.cc/SxHwbZ5z/IMG-20260321-184252-106.jpg" />
 
 **TenSei Mods** is an advanced, root-only customization suite specifically engineered for **Oplus, ColorOS, OxygenOS, and RealmeUI** devices and ports. It combines high-performance Smali logic with a premium "Atmospheric" glass-morphism UI.
 
@@ -7,14 +7,9 @@
 Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/releases)
 
 ### Screenshots
-<img width="1308" height="2813" alt="Dashboard" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_133.jpg" />
-<img width="1308" height="2813" alt="MiscMods" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_174.jpg" />
-<img width="1308" height="2813" alt="Statusbar" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_220.jpg" />
-<img width="1308" height="2813" alt="DNS" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_398.jpg" />
-<img width="1308" height="2813" alt="FPS" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_572.jpg" />
-<img width="1308" height="2813" alt="Colors" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_663.jpg" />
-<img width="1308" height="2813" alt="Volume" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_931.jpg" />
-<img width="1308" height="2813" alt="Wattage" src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184253_078.jpg" />
+<img width="1308" height="2813" alt="Statusbar_Mods" src="https://i.postimg.cc/BbZzBR8r/IMG-20260321-184252-133.jpg" />
+<img width="1308" height="2813" alt="Misc_Mods" src="https://i.postimg.cc/RVDYwsvj/IMG-20260321-184252-398.jpg" />
+<img width="1308" height="2813" alt="Dark_Mode" src="https://i.postimg.cc/zB82q4kz/IMG-20260321-184252-220.jpg" />
 
 ### Instructions:
 - Download and install the `TenSei-Mods.apk`.
