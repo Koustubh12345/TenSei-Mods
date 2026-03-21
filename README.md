@@ -13,6 +13,28 @@
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_106.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_133.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_174.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_220.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_398.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_572.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_663.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184252_931.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Koustubh12345/TenSei-Mods/main/Screenshots/IMG_20260321_184253_078.jpg" width="30%" />
+</p>
+
+---
+
 ## 🛠 Available Modifications
 
 ### 🔋 Statusbar & Visuals
@@ -27,11 +49,6 @@
 * **Peak Brightness Force:** Manually override the display backlight to its maximum hardware value (4095).
 * **Security Bypass:** Remove screenshot and screen recording restrictions in secure/protected applications.
 * **Quick Dev Access:** Force-enable and jump directly into Developer Options with one click.
-
----
-
-## 📸 Preview
-*A premium UI experience featuring glass-morphism, smooth spring animations, and an atmospheric particle system.*
 
 ---
 
@@ -52,4 +69,4 @@ This app is provided "as-is". Modifying system properties involves risks. The de
 ## 👨‍💻 Developer
 **TenSei (てんせい)** *Lead Developer & UI Designer*
 
-[Join Telegram for Updates](https://t.me/getthefckoutofheree)
+[Join Telegram for Updates](https://t.me/Tenseimods)
