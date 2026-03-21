@@ -1,7 +1,7 @@
 # 🌌 TenSei Mods V1.0
 <img width="2171" height="1220" alt="TenSeiMods_Banner" src="https://i.postimg.cc/NF5jPJSr/23419-modified.png" />
 
-**TenSei Mods** is an advanced, root-only customization suite specifically engineered for **Oplus, ColorOS, OxygenOS, and RealmeUI** devices and ports. It combines high-performance Smali logic with a premium "Atmospheric" glass-morphism UI.
+**TenSei Mods** is an advanced, root-only customization suite specifically engineered for **ColorOS16, OxygenOS16, and RealmeUI7** devices and ports. It combines high-performance Smali logic with a premium "Atmospheric" glass-morphism UI.
 
 ### Download
 Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/releases)
@@ -16,7 +16,7 @@ Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/r
 - Download and install the `TenSeiModsModule`
 - Open the app and grant **Root Access** (Magisk or KernelSU).
 - Select your desired modifications from the menu.
-- - Dsv must be installed or patched`
+- Dsv must be installed or patched`
 - Click **"Apply Changes"** to restart SystemUI and finalize settings.
 
 ---
