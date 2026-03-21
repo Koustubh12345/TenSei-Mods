@@ -24,7 +24,7 @@ Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/r
 ### Community & Updates
 Join the official [Telegram Channel](https://t.me/Tenseimods) for queries and updates.
 
-Modified by **[TenSei てんせい](https://t.me/Tenseimods)** with added features and UI changes.
+Mod by **[TenSei てんせい](https://t.me/Tenseimods)** with added features and UI changes.
 
 
 ### ⚠️ IMPORTANT: Screenshot Restriction Patch
