@@ -20,6 +20,12 @@ Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/r
 
 ---
 
+### Community & Updates
+Join the official [Telegram Channel](https://t.me/Tenseimods) for queries and updates.
+
+Modified by **[TenSei てんせい](https://t.me/Tenseimods)** with added features and UI changes.
+
+
 ### ⚠️ IMPORTANT: Screenshot Restriction Patch
 The **"Remove Screenshot Restriction"** switch in the app will not work by default. To enable this feature, you must manually patch your `framework.jar`.
 
@@ -101,8 +107,3 @@ The **"Remove Screenshot Restriction"** switch in the app will not work by defau
     .line 1324
     return-void
 .end method
-
-### Community & Updates
-Join the official [Telegram Channel](https://t.me/Tenseimods) for queries and updates.
-
-Modified by **[TenSei てんせい](https://t.me/Tenseimods)** with added features and UI changes.
