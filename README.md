@@ -13,7 +13,7 @@ Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/r
 <img width="1308" height="2813" alt="Dark_Mode" src="https://i.postimg.cc/zB82q4kz/IMG-20260321_184252_220.jpg" />
 
 ### Instructions:
-- Download and install the `TenSei-Mods.apk`.
+- Download and install the `TenSeiModsModule`
 - Open the app and grant **Root Access** (Magisk or KernelSU).
 - Select your desired modifications from the menu.
 - Click **"Apply Changes"** to restart SystemUI and finalize settings.
