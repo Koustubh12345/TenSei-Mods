@@ -3,10 +3,6 @@
 
 **TenSei Mods** is an advanced, root-only customization suite specifically engineered for **ColorOS16, OxygenOS16, and RealmeUI7** devices and ports. It combines high-performance Smali logic with a premium "Atmospheric" glass-morphism UI.
 
-<a href="https://github.com/Koustubh12345/TenSei-Mods/releases">
-  <img src="https://img.shields.io/github/downloads/Koustubh12345/TenSei-Mods/total?style=flat-square&color=blueviolet&logo=github" alt="Total Downloads">
-</a>
-
 ### Download
 Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/releases)
 
