@@ -7,10 +7,8 @@
 Download from the [releases page](https://github.com/Koustubh12345/TenSei-Mods/releases)
 
 ### Screenshots
-<img width="1308" height="2813" alt="TenSei_Main" src="https://i.postimg.cc/VsMpgMcm/Screenshot-2026-05-12-09-52-44-10-163b42ec4a3e825c458ad707eed51559.jpg" />
-<img width="1308" height="2813" alt="Statusbar_Mods" src="https://i.postimg.cc/BbZzBR8r/IMG-20260321_184252_133.jpg" />
-<img width="1308" height="2813" alt="Misc_Mods" src="https://i.postimg.cc/RVDYwsvj/IMG-20260321_184252_398.jpg" />
-<img width="1308" height="2813" alt="Dark_Mode" src="https://i.postimg.cc/zB82q4kz/IMG-20260321_184252_220.jpg" />
+<img width="1308" height="2813" alt="TenSei_Mods" src="https://i.postimg.cc/VsMpgMcm/Screenshot-2026-05-12-09-52-44-10-163b42ec4a3e825c458ad707eed51559.jpg" />
+<img width="1308" height="2813" alt="TenSei_Mods" src="https://i.postimg.cc/QdWTKX7M/Screenshot-2026-05-12-09-52-22-50-163b42ec4a3e825c458ad707eed51559.jpg" />
 
 ### Instructions:
 - Download and install the `TenSeiModsModule`
